@@ -1,0 +1,2 @@
+- Computer science student trying to do something useful in my freetime
+- On my journey to become a fullstack
